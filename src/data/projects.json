@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Clash of Mythology",
+    "description": "Este es un proyecto hecho en Java para el segundo semestre.",
+    "technologies": "Java, Java Swing",
+    "image": "/images/projects/proyecto1.jpg",
+    "link": "https://github.com/JoaquinLeivaDev/ClashOfMythology"
+  },
+  {
+    "id": 2,
+    "title": "Dogtor App",
+    "description": "Calculadora de Osmolaridad Sérica",
+    "technologies": "HTML, Flutter",
+    "image": "/images/projects/proyecto2.jpeg",
+    "link": "https://github.com/RaakuDev/rumineth"
+  },
+  {
+    "id": 3,
+    "title": "Stack-Stock Market",
+    "description": "Proyecto actual de cuarto semestre",
+    "technologies": "React, Bootstrap, Jasmine, Karma",
+    "image": "/images/projects/proyecto3.png",
+    "link": "https://github.com/almezag/Stack-StockMarket_V2"
+  }
+]

@@ -1,7 +1,7 @@
 {
   "name": "mi-portafolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/RaakuDev/mi-portafolio",
+  "homepage": "https://RaakuDev.github.io/mi-portafolio",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",

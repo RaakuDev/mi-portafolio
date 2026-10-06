@@ -12,7 +12,7 @@
     "title": "Dogtor App",
     "description": "Calculadora de Osmolaridad Sérica",
     "technologies": "HTML, Flutter",
-    "image": "/images/projects/proyecto2.jpeg",
+    "image": "images/projects/proyecto2.jpeg",
     "link": "https://github.com/RaakuDev/rumineth"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Stack-Stock Market",
     "description": "Proyecto actual de cuarto semestre",
     "technologies": "React, Bootstrap, Jasmine, Karma",
-    "image": "/images/projects/proyecto3.png",
+    "image": "images/projects/proyecto3.png",
     "link": "https://github.com/almezag/Stack-StockMarket_V2"
   }
 ]

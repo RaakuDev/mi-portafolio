@@ -9,7 +9,7 @@ function AboutSection() {
           <img
             src={profileImage}
             alt="Foto de perfil"
-            className="img-fluid rounded-circle"
+            className="profile-image"
           />
         </div>
 

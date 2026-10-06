@@ -4,8 +4,8 @@ function ProjectCard({image, title, description, technologies, link}) {
     return (
         <div className='card h-100'>
             <img
-                src={image}
-                className='card-img-top'
+                src={`${process.env.PUBLIC_URL}/${image}`}
+                className='card-img-top project-image'
                 alt={'Vista previa del proyecto'}
             />
 

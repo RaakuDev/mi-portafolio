@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RaakuDev/mi-portafolio/static/css/main.d6667ee0.css",
+    "main.js": "/RaakuDev/mi-portafolio/static/js/main.e580eb76.js",
+    "static/media/apio.jpg": "/RaakuDev/mi-portafolio/static/media/apio.987b7d0ebca401f2010c.jpg",
+    "index.html": "/RaakuDev/mi-portafolio/index.html",
+    "main.d6667ee0.css.map": "/RaakuDev/mi-portafolio/static/css/main.d6667ee0.css.map",
+    "main.e580eb76.js.map": "/RaakuDev/mi-portafolio/static/js/main.e580eb76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6667ee0.css",
+    "static/js/main.e580eb76.js"
+  ]
+}
